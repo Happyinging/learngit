@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 Learn to forbid "Fast forward"
 Creating a new branch is quick.
 Learn a new branch is quick and simple.
+Zhang and li is brothers.
+
